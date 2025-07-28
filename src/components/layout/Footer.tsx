@@ -65,15 +65,15 @@ const Footer: React.FC = () => {
             <div className="space-y-3 text-sm text-gray-400">
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>contact@gasiray.com</span>
+                <span>contact@gasiray.mg</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>+33 1 23 45 67 89</span>
+                <span>+26134 98 472 92</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4" />
-                <span>Paris, France</span>
+                <span>Antananarivo , Madagascar</span>
               </div>
             </div>
           </div>
